@@ -1,0 +1,75 @@
+.request-dialog{
+    height: 361px;;
+    width:63.9%;
+    margin-left: 200px;
+    margin-top: 100px;
+    border:2px solid powderblue;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position:absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.top{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding:25px 0px 15px 30px;
+    font-size: 20px;
+    background-color: rgb(82,208,255);
+
+}
+.small-text{
+    font-size: 14px;
+}
+.image{
+    background-image: url("Untitled2.jpg");
+    height: 281px;
+    width: 792px;
+    position: relative;
+}
+.form-content{
+    display:inline;
+}
+.input-style{
+    height: 45px;
+    width: 204px;
+    padding:8px 15px 5px 15px;
+    background-color: rgb(197,239,255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 50px;
+
+}
+.input-size{
+    width:200px;
+}
+.text-area-style {
+    height: 195px;
+    width: 313px;
+    padding: 10px 15px 5px 15px;
+    background-color: rgb(197, 239, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    margin-left: 410px;
+    margin-top: 25px;
+    position: absolute;
+}
+
+.first-input{
+    margin-top:10px;
+}
+.second-input{
+    margin-top:79px;
+}
+.third-input{
+    margin-top:147px;
+}
+.fourth-input{
+    margin-top:215px;
+}
+.send-button{
+    margin-left: 540px;
+    margin-top: 247px;
+    position:absolute;
+}
